@@ -1,11 +1,11 @@
 {
-    "name": "demo_4_words",
-    "short_name": "demo_4_words",
+    "name": "Teddy Chinese",
+    "short_name": "Teddy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Learn Chinese with videos",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

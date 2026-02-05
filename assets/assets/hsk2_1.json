@@ -1,0 +1,195 @@
+{
+  "duration": 27.0506875,
+  "text": "嘿,我闻你。 什么? 呃,我闻你? 哈? OK, what were you trying to say? I wanna say, can I ask you something? First of all, that is 我问你。 Second of all, if you say 我闻你 or 我闻你, 吻你",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "嘿,我闻你。",
+      "tokens": [
+        {
+          "word": "嘿",
+          "start": 0.0,
+          "end": 0.6000000238418579,
+          "pinyin": "hēi"
+        },
+        {
+          "word": "我闻",
+          "start": 1.559999942779541,
+          "end": 1.840000033378601,
+          "pinyin": "wǒ wén"
+        }
+      ]
+    },
+    {
+      "start": 3.059999942779541,
+      "end": 3.619999885559082,
+      "text": "什么?",
+      "tokens": [
+        {
+          "word": "什么",
+          "start": 3.059999942779541,
+          "end": 3.619999885559082,
+          "pinyin": "shén me"
+        }
+      ]
+    },
+    {
+      "start": 4.920000076293945,
+      "end": 7.400000095367432,
+      "text": "呃,我闻你?",
+      "tokens": [
+        {
+          "word": "呃",
+          "start": 4.920000076293945,
+          "end": 5.480000019073486,
+          "pinyin": "è"
+        },
+        {
+          "word": "我闻",
+          "start": 5.480000019073486,
+          "end": 6.380000114440918,
+          "pinyin": "wǒ wén"
+        },
+        {
+          "word": "你",
+          "start": 6.380000114440918,
+          "end": 7.400000095367432,
+          "pinyin": "nǐ"
+        }
+      ]
+    },
+    {
+      "start": 7.659999847412109,
+      "end": 7.699999809265137,
+      "text": "哈?",
+      "tokens": [
+        {
+          "word": "哈",
+          "start": 7.659999847412109,
+          "end": 7.699999809265137,
+          "pinyin": "hā"
+        }
+      ]
+    },
+    {
+      "start": 8.800000190734863,
+      "end": 11.020000457763672,
+      "text": "OK, what were you trying to say?",
+      "tokens": [
+        {
+          "word": "OKwhatwereyoutryingtosay",
+          "start": 8.800000190734863,
+          "end": 11.020000457763672,
+          "pinyin": "OKwhatwereyoutryingtosay"
+        }
+      ]
+    },
+    {
+      "start": 11.380000114440918,
+      "end": 13.15999984741211,
+      "text": "I wanna say, can I ask you something?",
+      "tokens": [
+        {
+          "word": "IwannasaycanIaskyousomething",
+          "start": 11.380000114440918,
+          "end": 13.15999984741211,
+          "pinyin": "IwannasaycanIaskyousomething"
+        }
+      ]
+    },
+    {
+      "start": 13.520000457763672,
+      "end": 16.260000228881836,
+      "text": "First of all, that is 我问你。",
+      "tokens": [
+        {
+          "word": "Firstofallthatis",
+          "start": 13.520000457763672,
+          "end": 14.979999542236328,
+          "pinyin": "Firstofallthatis"
+        },
+        {
+          "word": "我",
+          "start": 14.979999542236328,
+          "end": 15.479999542236328,
+          "pinyin": "wǒ"
+        },
+        {
+          "word": "问",
+          "start": 15.479999542236328,
+          "end": 15.779999732971191,
+          "pinyin": "wèn"
+        },
+        {
+          "word": "你。",
+          "start": 15.779999732971191,
+          "end": 16.260000228881836,
+          "pinyin": "nǐ 。"
+        }
+      ]
+    },
+    {
+      "start": 16.700000762939453,
+      "end": 19.979999542236328,
+      "text": "Second of all, if you say 我闻你 or 我闻你,",
+      "tokens": [
+        {
+          "word": "Secondofallifyousay",
+          "start": 16.700000762939453,
+          "end": 18.079999923706055,
+          "pinyin": "Secondofallifyousay"
+        },
+        {
+          "word": "我闻",
+          "start": 18.079999923706055,
+          "end": 18.780000686645508,
+          "pinyin": "wǒ wén"
+        },
+        {
+          "word": "你",
+          "start": 18.780000686645508,
+          "end": 19.219999313354492,
+          "pinyin": "nǐ"
+        },
+        {
+          "word": "or",
+          "start": 19.219999313354492,
+          "end": 19.639999389648438,
+          "pinyin": "or"
+        },
+        {
+          "word": "我闻",
+          "start": 19.639999389648438,
+          "end": 19.979999542236328,
+          "pinyin": "wǒ wén"
+        },
+        {
+          "word": "你",
+          "start": 19.979999542236328,
+          "end": 19.979999542236328,
+          "pinyin": "nǐ"
+        }
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 20.479999989271164,
+      "text": "吻你",
+      "tokens": [
+        {
+          "word": "吻",
+          "start": 20.0,
+          "end": 20.280000001192093,
+          "pinyin": "wěn"
+        },
+        {
+          "word": "你",
+          "start": 20.280000001192093,
+          "end": 20.479999989271164,
+          "pinyin": "nǐ"
+        }
+      ]
+    }
+  ]
+}
